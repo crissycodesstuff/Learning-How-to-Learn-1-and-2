@@ -31,6 +31,3 @@ This is a static website focused on learning strategies.
 This project was made according to layout in [Brief](https://drive.google.com/file/d/17f9gI5jEQaGpINaBOWsND_k_CeXZvuDX/view?usp=sharing)
 
 The project checklist is here [Checklist](https://drive.google.com/file/d/1TDjvYXmyEV7BQJR9Mwhog6xQGLT7Sljq/view?usp=sharing)
-
-### Demo
-[Demo link](https://crissycodesstuff.github.io/Learning-How-to-Learn-1-and-2/)
